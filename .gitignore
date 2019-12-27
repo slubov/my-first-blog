@@ -1,0 +1,7 @@
+*.pyc
+*~
+__pycache__
+muvirtual
+db.sqlite3
+/muvirtual
+.DS_Store
